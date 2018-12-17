@@ -1,1 +1,0 @@
-docs directory for charts
