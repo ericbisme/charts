@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  pihole-cloudflared:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-12-16T19:09:12.718002396-07:00
+    description: A Helm chart for Kubernetes
+    digest: a71ae356e09feb550cb6f987d2976ad1b998b13c44878ebc5ffb9bd01881a1ea
+    name: pihole-cloudflared
+    urls:
+    - https://ericbisme.github.io/charts/pihole-cloudflared-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-12-16T19:09:12.717495628-07:00
